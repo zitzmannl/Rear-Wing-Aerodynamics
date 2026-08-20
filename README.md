@@ -26,3 +26,24 @@ Reference Endplate | Slats | Cutouts | Strakes
 Rear wings generate downforce to improve vehicle stability and tire loading at high speeds, but the pressure difference across the wing also produces wingtip vortices that contribute to induced drag.
 
 This project investigated whether modifications to rear-wing endplate geometry could manipulate these flow structures to improve aerodynamic performance while maintaining or increasing downforce.
+
+## Endplate Design Concepts
+
+Four rear-wing configurations were developed and evaluated to investigate how endplate geometry influences aerodynamic performance and wingtip flow behavior.
+
+### Reference Endplate
+
+The reference configuration used a conventional solid endplate and served as the baseline for comparing the aerodynamic effects of the modified designs.
+
+### Slatted Endplate
+
+The slatted configuration incorporated angled aerodynamic elements intended to redirect airflow near the wingtip and influence the interaction between the rear wing and surrounding flow.
+
+### Cutout Endplate
+
+The cutout configuration removed selected areas of the endplate to investigate how allowing additional cross-flow between the high- and low-pressure regions affected downforce, drag, and wingtip behavior.
+
+### Straked Endplate
+
+The straked configuration incorporated additional flow-control surfaces intended to redirect airflow near the wingtip and modify local flow structures.
+
