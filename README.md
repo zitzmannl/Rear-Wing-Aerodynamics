@@ -69,3 +69,29 @@ The straked configuration incorporated additional flow-control surfaces intended
   </tr>
 </table>
 
+## Prototype Manufacturing
+
+Each rear-wing configuration was fabricated using additive manufacturing to create physical models for experimental wind-tunnel testing. The same wing geometry was maintained across the four prototypes while the endplate design was varied, allowing the aerodynamic effects of each configuration to be compared under consistent test conditions.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/3D-prints/printed_reference_endplate.png" width="450"><br>
+      <b>Reference Prototype</b>
+    </td>
+    <td align="center">
+      <img src="images/3D-prints/printed_slatted_endplate.png" width="450"><br>
+      <b>Slatted Prototype</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="images/3D-prints/printed_cutout_endplate.png" width="450"><br>
+      <b>Cutout Prototype</b>
+    </td>
+    <td align="center">
+      <img src="images/3D-prints/printed_straked_endplate.png" width="450"><br>
+      <b>Straked Prototype</b>
+    </td>
+  </tr>
+</table>
