@@ -46,4 +46,26 @@ The cutout configuration removed selected areas of the endplate to investigate h
 ### Straked Endplate
 
 The straked configuration incorporated additional flow-control surfaces intended to redirect airflow near the wingtip and modify local flow structures.
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/CAD/reference_endplate.png" width="400"><br>
+      <b>Reference Endplate</b>
+    </td>
+    <td align="center">
+      <img src="images/CAD/slatted_endplate.png" width="400"><br>
+      <b>Slatted Endplate</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="images/CAD/cutout_endplate.png" width="400"><br>
+      <b>Cutout Endplate</b>
+    </td>
+    <td align="center">
+      <img src="images/CAD/straked_endplate.png" width="400"><br>
+      <b>Straked Endplate</b>
+    </td>
+  </tr>
+</table>
 
