@@ -5,7 +5,9 @@ Computational and experimental investigation of rear-wing endplate geometries an
 ## Project Overview
 
 ### My Role
-CAD Design, CFD Analysis, Prototype Manufacturing, and Experimental Testing
+Project Lead — Concept Development, CAD Design, CFD Analysis, Prototype Manufacturing, and Experimental Testing
+
+I originated the project concept and served as team lead throughout its development, coordinating the overall design, simulation, manufacturing, and experimental testing process. In addition to overseeing the project direction, I contributed across each phase of the engineering workflow as needed.
 
 ### Project Type
 Collaborative Aerodynamics Research
