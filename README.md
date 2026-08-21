@@ -10,7 +10,12 @@ Project Lead — Concept Development, CAD Design, CFD Analysis, Prototype Manufa
 I originated the project concept and served as team lead throughout its development, coordinating the overall design, simulation, manufacturing, and experimental testing process. In addition to overseeing the project direction, I contributed across each phase of the engineering workflow as needed.
 
 ### Project Type
-Collaborative Aerodynamics Research
+Collaborative Aerodynamics Research for CFD & Numerical Methods Course Project
+
+### Team
+[Rhiana Boutot](https://www.linkedin.com/in/rhiana-boutot-2761992a3/)
+[Alexis Reiff](https://www.linkedin.com/in/alexis-reiff-17a374330/)
+[Jack Rollinson](https://www.linkedin.com/in/jack-rollinson-jr44/)
 
 ### Tools
 SolidWorks | SolidWorks Flow Simulation | Additive Manufacturing | Wind Tunnel Testing
