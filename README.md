@@ -16,7 +16,7 @@ Collaborative Aerodynamics Research
 SolidWorks | SolidWorks Flow Simulation | Additive Manufacturing | Wind Tunnel Testing
 
 ### Focus Areas
-Computational Fluid Dynamics | Aerodynamics | Experimental Validation | Rapid Prototyping
+Computational Fluid Dynamics | Aerodynamics | Experimental Testing | Rapid Prototyping
 
 ### Configurations Investigated
 Reference Endplate | Slats | Cutouts | Strakes
