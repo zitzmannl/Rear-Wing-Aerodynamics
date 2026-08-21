@@ -248,3 +248,33 @@ Therefore, the experimental testing should be considered a **preliminary compari
   <b>Percent difference between CFD predictions and experimental measurements.</b>
 </p>
 
+## Key Findings
+
+The combined CFD and wind-tunnel investigation demonstrated that relatively small changes in rear-wing endplate geometry can meaningfully influence aerodynamic performance.
+
+- **Endplate geometry affected both downforce and drag.** Each modified configuration produced different aerodynamic behavior despite maintaining the same primary wing geometry.
+
+- **Increasing angle of attack generally increased downforce and drag.** The strongest downforce was measured at 15° angle of attack, where the straked configuration generated approximately **4.47 N** of downforce.
+
+- **The slatted configuration provided the strongest overall aerodynamic balance at higher angles of attack.** At 10°, the slatted design achieved the highest measured aerodynamic efficiency with an L/D ratio of approximately **4.10**.
+
+- **Maximum downforce did not necessarily correspond to maximum aerodynamic efficiency.** Although the straked configuration produced the greatest downforce at 15°, the additional drag reduced its overall efficiency relative to the slatted configuration.
+
+- **CFD provided useful insight into pressure and flow behavior, but the experimental data were insufficient for formal validation.** Additional wind-tunnel trials would be required to establish repeatability, quantify experimental uncertainty, and determine how closely the computational model predicts physical performance.
+
+  ## Limitations & Future Work
+
+Several improvements could strengthen the experimental and computational investigation in future testing:
+
+- Conduct multiple wind-tunnel trials for each configuration and angle of attack to establish repeatability and calculate averaged aerodynamic forces.
+- Quantify experimental uncertainty and measurement variation across repeated trials.
+- Improve prototype surface finish to reduce the aerodynamic effects of additive-manufacturing layer lines.
+- Incorporate the wind-tunnel mounting hardware into the CFD model to better represent the experimental test environment.
+- Perform additional mesh-independence studies and refine the computational model near the endplates and wingtip flow structures.
+- Investigate additional angles of attack and endplate geometries, particularly around the **10–15° range** where the modified configurations demonstrated their strongest aerodynamic performance.
+
+- ## Engineering Takeaways
+
+This project provided experience carrying an engineering concept through the complete design and testing process — from initial aerodynamic theory and CAD development through CFD simulation, additive manufacturing, wind-tunnel testing, and interpretation of experimental results.
+
+Serving as project lead also required coordinating the team's design, simulation, manufacturing, and testing efforts while making engineering decisions throughout each stage of development. The project reinforced the importance of combining computational analysis with physical testing while also recognizing the limitations and uncertainty associated with both methods.
