@@ -10,7 +10,7 @@ Project Lead — Concept Development, CAD Design, CFD Analysis, Prototype Manufa
 I originated the project concept and served as team lead throughout its development, coordinating the overall design, simulation, manufacturing, and experimental testing process. In addition to overseeing the project direction, I contributed across each phase of the engineering workflow as needed.
 
 ### Project Type
-Collaborative Aerodynamics Research for CFD & Numerical Methods Course Project
+Collaborative Aerodynamics Research — CFD & Numerical Methods Course Project
 
 ### Team
 [Rhiana Boutot](https://www.linkedin.com/in/rhiana-boutot-2761992a3/), [Alexis Reiff](https://www.linkedin.com/in/alexis-reiff-17a374330/), and [Jack Rollinson](https://www.linkedin.com/in/jack-rollinson-jr44/)
@@ -282,8 +282,14 @@ This project provided experience carrying an engineering concept through the com
 
 Serving as project lead also required coordinating the team's design, simulation, manufacturing, and testing efforts while making engineering decisions throughout each stage of development. The project reinforced the importance of combining computational analysis with physical testing while also recognizing the limitations and uncertainty associated with both methods.
 
+## Technical Documentation
+
+For the complete methodology, CFD results, experimental data, analysis, and discussion, see the full research paper:
+
+**[Read the Full Research Paper](LINK-TO-PAPER)**
+
 ## Acknowledgements
 
 This project was completed collaboratively with **[Rhiana Boutot](https://www.linkedin.com/in/rhiana-boutot-2761992a3/)**, **[Alexis Reiff](https://www.linkedin.com/in/alexis-reiff-17a374330/)**, and **[Jack Rollinson](https://www.linkedin.com/in/jack-rollinson-jr44/)**, whose contributions throughout the design, simulation, manufacturing, and experimental testing process were essential to the project.
 
-Special thanks to professor **[Haifa El-Sadi](https://www.linkedin.com/in/haifa-el-sadi-b85b3b9/)** for her guidance throughout the project and for providing access to the computational and experimental resources used to complete the CFD and wind-tunnel investigation.
+Special thanks to Professor **[Haifa El-Sadi](https://www.linkedin.com/in/haifa-el-sadi-b85b3b9/)** for her guidance throughout the project and for providing access to the computational and experimental resources used to complete the CFD and wind-tunnel investigation.
