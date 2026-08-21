@@ -286,7 +286,7 @@ Serving as project lead also required coordinating the team's design, simulation
 
 For the complete methodology, CFD results, experimental data, analysis, and discussion, see the full research paper:
 
-**[Read the Full Research Paper](LINK-TO-PAPER)**
+**[Read the Full Research Paper](https://github.com/zitzmannl/Rear-Wing-Aerodynamics/tree/main/paper)**
 
 ## Acknowledgements
 
