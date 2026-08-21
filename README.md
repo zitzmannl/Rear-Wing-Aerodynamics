@@ -265,7 +265,7 @@ The combined CFD and wind-tunnel investigation demonstrated that relatively smal
 
 - **CFD provided useful insight into pressure and flow behavior, but the experimental data were insufficient for formal validation.** Additional wind-tunnel trials would be required to establish repeatability, quantify experimental uncertainty, and determine how closely the computational model predicts physical performance.
 
-  ## Limitations & Future Work
+## Limitations & Future Work
 
 Several improvements could strengthen the experimental and computational investigation in future testing:
 
@@ -276,7 +276,7 @@ Several improvements could strengthen the experimental and computational investi
 - Perform additional mesh-independence studies and refine the computational model near the endplates and wingtip flow structures.
 - Investigate additional angles of attack and endplate geometries, particularly around the **10–15° range** where the modified configurations demonstrated their strongest aerodynamic performance.
 
-- ## Engineering Takeaways
+## Engineering Takeaways
 
 This project provided experience carrying an engineering concept through the complete design and testing process — from initial aerodynamic theory and CAD development through CFD simulation, additive manufacturing, wind-tunnel testing, and interpretation of experimental results.
 
