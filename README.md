@@ -95,3 +95,23 @@ Each rear-wing configuration was fabricated using additive manufacturing to crea
     </td>
   </tr>
 </table>
+
+## Design Development
+
+Four rear-wing configurations were developed to investigate how endplate geometry influences aerodynamic performance. Each design retained the same primary wing geometry while modifying the endplates, allowing the effects of the endplate features to be compared directly.
+
+| Reference Endplate | Slatted Endplate |
+|---|---|
+| ![](images/CAD/reference_endplate.png) | ![](images/CAD/slatted_endplate.png) |
+| **Baseline geometry used for comparison.** | **Vertical slats designed to modify airflow near the wingtip.** |
+
+| Cutout Endplate | Straked Endplate |
+|---|---|
+| ![](images/CAD/cutout_endplate.png) | ![](images/CAD/straked_endplate.png) |
+| **Upper-edge cutouts introduced to alter pressure equalization and wingtip flow.** | **External strakes added to redirect airflow and modify local flow structures.** |
+
+### Design Approach
+
+The reference configuration established a baseline against which each modified endplate could be evaluated. The three experimental configurations introduced distinct flow-control features while maintaining a consistent wing profile and overall test geometry.
+
+This approach allowed differences in downforce, drag, pressure distribution, and flow behavior to be primarily associated with changes in endplate geometry rather than changes to the wing itself.
