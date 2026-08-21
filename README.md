@@ -198,3 +198,50 @@ The rear-wing prototypes were mounted within the wind-tunnel test section and po
 </table>
 
 The reference configuration is shown above to demonstrate the experimental setup and angle-of-attack variation used throughout testing. The same procedure was repeated for the slatted, cutout, and straked configurations.
+
+## Experimental Results
+
+Wind-tunnel testing showed that aerodynamic performance varied substantially with both endplate geometry and angle of attack.
+
+### Lift and Drag
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/results/experimental_lift_results.png" width="450"><br>
+      <b>Lift / Downforce</b>
+    </td>
+    <td align="center">
+      <img src="images/results/experimental_drag_results.png" width="450"><br>
+      <b>Drag</b>
+    </td>
+  </tr>
+</table>
+
+Increasing angle of attack generally increased both downforce and drag across all four configurations. At 15°, the straked configuration generated the greatest absolute downforce at approximately **4.47 N**, while the slatted configuration generated approximately **4.14 N** of downforce with lower drag.
+
+### Aerodynamic Efficiency
+
+<p align="center">
+  <img src="images/results/experimental_efficiency_results.png" width="750">
+</p>
+
+The slatted configuration produced the strongest overall balance between downforce and drag at the higher angles of attack. At **10°**, it achieved the highest measured aerodynamic efficiency with an L/D ratio of approximately **4.10**. At **15°**, it maintained an L/D of approximately **3.83**, while also producing greater downforce and lower drag than the reference configuration.
+
+## CFD vs. Experimental Validation
+
+The CFD and wind-tunnel results showed similar overall trends, particularly the increase in aerodynamic loading as angle of attack increased. However, the simulations did not quantitatively match the experimental results closely enough to fully validate the CFD model.
+
+Several experimental and modeling limitations likely contributed to the discrepancies:
+
+- Surface roughness and visible layer lines on the 3D-printed prototypes introduced additional aerodynamic effects not completely captured by the CFD surface-roughness model.
+- The physical wind-tunnel mounting rod and fixture contributed additional drag but were not included in the CFD geometry.
+- Limited access to the wind tunnel allowed only one experimental run for each configuration and angle of attack.
+- The aging wind-tunnel equipment and limited recent calibration introduced additional uncertainty into the measured forces.
+
+These factors contributed to differences between the CFD and experimental lift and drag coefficients.
+
+<p align="center">
+  <img src="images/results/cfd_experimental_error.png" width="650"><br>
+  <b>Percent error between CFD and experimental results.</b>
+</p>
