@@ -121,3 +121,50 @@ Three primary outputs were examined for each configuration and angle of attack:
 **Velocity Trajectories** — Used to examine airflow around the wing and visualize changes in the flow structures generated near the endplates and wingtips.
 
 **Solution Convergence** — Monitored to verify that the calculated aerodynamic quantities approached stable values during each simulation.
+
+## CFD Analysis
+
+Computational fluid dynamics simulations were performed using SolidWorks Flow Simulation to evaluate the aerodynamic behavior of each rear-wing configuration prior to experimental testing.
+
+The reference, slatted, cutout, and straked configurations were analyzed at **0°, 10°, and 15° angles of attack** under consistent external-flow conditions. The computational domain was based on the dimensions of the wind tunnel used for experimental testing, with an inlet velocity of **98.4 ft/s**. Surface roughness was also incorporated to better represent the 3D-printed prototypes.
+
+### Simulation Approach
+
+The CFD analysis evaluated:
+
+- Lift and drag forces
+- Pressure distribution across the wing
+- Velocity trajectories and wake behavior
+- Wingtip vortex development
+- Solution convergence
+
+Mesh refinement was applied to each configuration, with approximately **1.6–2.1 million fluid cells** depending on geometry. The slatted configuration required additional cells to resolve airflow through the more complex endplate features.
+
+All simulations demonstrated convergence, allowing the aerodynamic behavior of the four configurations to be compared across the three angles of attack.
+
+### Velocity Flow Comparison — 10° Angle of Attack
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="images/CFD/10 deg./reference_velocity_trajectories.png" width="400"><br>
+      <b>Reference</b>
+    </td>
+    <td align="center">
+      <img src="images/CFD/10 deg./slatted_velocity_trajectories.png" width="400"><br>
+      <b>Slatted</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="images/CFD/10 deg./cutout_velocity_trajectories.png" width="400"><br>
+      <b>Cutout</b>
+    </td>
+    <td align="center">
+      <img src="images/CFD/10 deg./straked_velocity_trajectories.png" width="400"><br>
+      <b>Straked</b>
+    </td>
+  </tr>
+</table>
+
+The velocity trajectories demonstrate how relatively small changes in endplate geometry altered the wingtip and wake flow structures. The reference geometry developed conventional wingtip vortices, while the modified configurations redirected the flow through different mechanisms. The slatted configuration produced a more organized wake structure and achieved its highest aerodynamic efficiency at 10° angle of attack.
