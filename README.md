@@ -278,3 +278,9 @@ Several improvements could strengthen the experimental and computational investi
 This project provided experience carrying an engineering concept through the complete design and testing process — from initial aerodynamic theory and CAD development through CFD simulation, additive manufacturing, wind-tunnel testing, and interpretation of experimental results.
 
 Serving as project lead also required coordinating the team's design, simulation, manufacturing, and testing efforts while making engineering decisions throughout each stage of development. The project reinforced the importance of combining computational analysis with physical testing while also recognizing the limitations and uncertainty associated with both methods.
+
+## Acknowledgements
+
+This project was completed collaboratively with **[Rhiana Boutot](https://www.linkedin.com/in/rhiana-boutot-2761992a3/)**, **[Alexis Reiff](https://www.linkedin.com/in/alexis-reiff-17a374330/)**, and **[Jack Rollinson](https://www.linkedin.com/in/jack-rollinson-jr44/)**, whose contributions throughout the design, simulation, manufacturing, and experimental testing process were essential to the project.
+
+Special thanks to professor **[Haifa El-Sadi](https://www.linkedin.com/in/haifa-el-sadi-b85b3b9/)** for her guidance throughout the project and for providing access to the computational and experimental resources used to complete the CFD and wind-tunnel investigation.
