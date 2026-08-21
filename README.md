@@ -13,9 +13,7 @@ I originated the project concept and served as team lead throughout its developm
 Collaborative Aerodynamics Research for CFD & Numerical Methods Course Project
 
 ### Team
-[Rhiana Boutot](https://www.linkedin.com/in/rhiana-boutot-2761992a3/)
-[Alexis Reiff](https://www.linkedin.com/in/alexis-reiff-17a374330/)
-[Jack Rollinson](https://www.linkedin.com/in/jack-rollinson-jr44/)
+[Rhiana Boutot](https://www.linkedin.com/in/rhiana-boutot-2761992a3/), [Alexis Reiff](https://www.linkedin.com/in/alexis-reiff-17a374330/), and [Jack Rollinson](https://www.linkedin.com/in/jack-rollinson-jr44/)
 
 ### Tools
 SolidWorks | SolidWorks Flow Simulation | Additive Manufacturing | Wind Tunnel Testing
