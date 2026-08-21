@@ -228,20 +228,23 @@ Increasing angle of attack generally increased both downforce and drag across al
 
 The slatted configuration produced the strongest overall balance between downforce and drag at the higher angles of attack. At **10°**, it achieved the highest measured aerodynamic efficiency with an L/D ratio of approximately **4.10**. At **15°**, it maintained an L/D of approximately **3.83**, while also producing greater downforce and lower drag than the reference configuration.
 
-## CFD vs. Experimental Validation
+## CFD vs. Experimental Comparison
 
-The CFD and wind-tunnel results showed similar overall trends, particularly the increase in aerodynamic loading as angle of attack increased. However, the simulations did not quantitatively match the experimental results closely enough to fully validate the CFD model.
+The CFD and wind-tunnel results showed similar overall aerodynamic trends, particularly the increase in aerodynamic loading as angle of attack increased. However, the experimental results **cannot be considered a validation of the CFD model**.
 
-Several experimental and modeling limitations likely contributed to the discrepancies:
+Due to limited wind-tunnel availability, only a single experimental test was conducted for each configuration and angle of attack. Without repeated trials, the repeatability and uncertainty of the experimental measurements could not be adequately quantified. Multiple runs would be required to calculate averaged force measurements, evaluate experimental variation, and provide a more reliable comparison with the CFD predictions.
 
-- Surface roughness and visible layer lines on the 3D-printed prototypes introduced additional aerodynamic effects not completely captured by the CFD surface-roughness model.
-- The physical wind-tunnel mounting rod and fixture contributed additional drag but were not included in the CFD geometry.
-- Limited access to the wind tunnel allowed only one experimental run for each configuration and angle of attack.
-- The aging wind-tunnel equipment and limited recent calibration introduced additional uncertainty into the measured forces.
+Additional sources of discrepancy between the computational and experimental results included:
 
-These factors contributed to differences between the CFD and experimental lift and drag coefficients.
+- Surface roughness and layer lines on the 3D-printed prototypes, which introduced aerodynamic effects that could only be approximated in the CFD model.
+- The physical mounting rod and test fixture, which contributed additional aerodynamic forces but were not represented in the CFD geometry.
+- Limitations associated with the aging wind-tunnel equipment and its calibration history.
+- Differences between the idealized computational environment and physical testing conditions.
+
+Therefore, the experimental testing should be considered a **preliminary comparison of aerodynamic trends rather than a formal validation of the CFD results**. Future testing with repeated trials and improved control of experimental conditions would be necessary to establish repeatability and quantitatively validate the computational model.
 
 <p align="center">
-  <img src="images/results/cfd_experimental_error.png" width="650"><br>
-  <b>Percent error between CFD and experimental results.</b>
+  <img src="images/results/cfd_experimental_error.png" width="500"><br>
+  <b>Percent difference between CFD predictions and experimental measurements.</b>
 </p>
+
