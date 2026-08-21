@@ -141,7 +141,7 @@ All simulations demonstrated convergence, allowing the aerodynamic behavior of t
   </tr>
 </table>
 
-The velocity trajectories demonstrate how relatively small changes in endplate geometry altered the wingtip and wake flow structures. The reference geometry developed conventional wingtip vortices, while the modified configurations redirected the flow through different mechanisms. The slatted configuration produced a more organized wake structure and achieved its highest aerodynamic efficiency at 10° angle of attack.
+The modified endplate geometries produced visibly different wingtip and wake flow structures compared with the reference configuration. The slatted configuration also achieved its highest experimentally measured aerodynamic efficiency at 10° angle of attack.
 
 ### Pressure Distribution Comparison — 15° Angle of Attack
 
