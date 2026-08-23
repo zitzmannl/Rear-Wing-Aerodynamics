@@ -4,24 +4,24 @@ Computational and experimental investigation of rear-wing endplate geometries an
 
 ## Project Overview
 
-### My Role
+#### My Role
 Project Lead — Concept Development, CAD Design, CFD Analysis, Prototype Manufacturing, and Experimental Testing
 
 I originated the project concept and served as team lead throughout its development, coordinating the overall individual research, design, simulation, manufacturing, and experimental testing process. In addition to overseeing the project direction, I contributed across each phase of the engineering workflow as needed.
 
-### Project Type
+#### Project Type
 Collaborative Aerodynamics Research — CFD & Numerical Methods Course Project
 
-### Team
+#### Team
 [Rhiana Boutot](https://www.linkedin.com/in/rhiana-boutot-2761992a3/), [Alexis Reiff](https://www.linkedin.com/in/alexis-reiff-17a374330/), and [Jack Rollinson](https://www.linkedin.com/in/jack-rollinson-jr44/)
 
-### Tools
+#### Tools
 SolidWorks | SolidWorks Flow Simulation | Additive Manufacturing | Wind Tunnel Testing
 
-### Focus Areas
+#### Focus Areas
 Computational Fluid Dynamics | Aerodynamics | Experimental Testing | Rapid Prototyping
 
-### Configurations Investigated
+#### Configurations Investigated
 Reference Endplate | Slats | Cutouts | Strakes
 
 ### The Challenge
