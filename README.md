@@ -30,6 +30,12 @@ Rear wings generate downforce to improve vehicle stability and tire loading at h
 
 This project investigated whether modifications to rear-wing endplate geometry could manipulate these flow structures to improve aerodynamic performance while maintaining or increasing downforce.
 
+### Airfoil Selection
+
+The baseline wing geometry was selected using [Airfoil Tools](http://airfoiltools.com/plotter/index). Based on the expected chord length and operating Reynolds number, candidate airfoil profiles were evaluated for the anticipated flow conditions. This process led to the selection of the **Eppler E420 (e420-il)** airfoil for the rear-wing design.
+
+The same airfoil profile and primary wing geometry were maintained across all four configurations so that differences in aerodynamic performance could be attributed primarily to the endplate modifications.
+
 ## Endplate Design Concepts
 
 Four rear-wing configurations were developed and evaluated to investigate how endplate geometry influences aerodynamic performance and wingtip flow behavior.
