@@ -24,7 +24,7 @@ Computational Fluid Dynamics | Aerodynamics | Experimental Testing | Rapid Proto
 ### Configurations Investigated
 Reference Endplate | Slats | Cutouts | Strakes
 
-## The Challenge
+### The Challenge
 
 Rear wings generate downforce to improve vehicle stability and tire loading at high speeds, but the pressure difference across the wing also produces wingtip vortices that contribute to induced drag.
 
@@ -36,7 +36,7 @@ The baseline wing geometry was selected using [Airfoil Tools](http://airfoiltool
 
 The same airfoil profile and primary wing geometry were maintained across all four configurations so that differences in aerodynamic performance could be attributed primarily to the endplate modifications.
 
-## Endplate Design Concepts
+### Endplate Design Concepts
 
 Four rear-wing configurations were developed and evaluated to investigate how endplate geometry influences aerodynamic performance and wingtip flow behavior.
 
